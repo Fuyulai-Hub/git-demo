@@ -8,5 +8,5 @@ hi git
 hi git
 hi git
 hi git
-hi git
+hi git master test
 hi git
